@@ -1,0 +1,12 @@
+{
+  "series": [
+    {
+      "id": "demo",
+      "title": "ตัวอย่าง (Big Buck Bunny)",
+      "episodes": [
+        { "title": "ตอน 1", "src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+        { "title": "ตอน 2", "src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" }
+      ]
+    }
+  ]
+}
