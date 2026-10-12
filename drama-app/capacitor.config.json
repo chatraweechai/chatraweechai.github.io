@@ -1,0 +1,7 @@
+{
+  "appId": "io.github.envburiram.drama",
+  "appName": "Drama Shorts",
+  "webDir": "../drama",
+  "backgroundColor": "#0b0b10",
+  "android": { "allowMixedContent": false }
+}
