@@ -1,0 +1,16 @@
+<th-TH>
+เปิดตัว Drama Shorts เวอร์ชันแรก
+• เล่นซีรีส์สั้นแนวตั้ง เลื่อนขึ้นลงเพื่อเปลี่ยนตอน
+• เล่นตอนถัดไปอัตโนมัติเมื่อจบตอน
+• จำซีรีส์และตอนที่ดูค้างไว้
+• เพิ่มซีรีส์จากลิงก์วิดีโอของคุณเอง
+• ไม่มีโฆษณา ไม่เก็บข้อมูลส่วนตัว
+</th-TH>
+<en-US>
+First release of Drama Shorts
+• Vertical short-drama player: swipe up and down to change episodes
+• Autoplays the next episode when one ends
+• Remembers your series and where you stopped
+• Add series from your own video links
+• No ads, no personal data collected
+</en-US>
