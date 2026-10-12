@@ -49,3 +49,34 @@ Privacy
 Note
 This app is a player and does not include any videos or content. Use only links to content you have the right to play. Video links must use https.
 Privacy policy: https://envburiram.github.io/drama/privacy.html
+
+
+---
+
+## ตัวเลือกชื่อแอปและคำอธิบายสั้นอื่นๆ / Alternative names and short descriptions
+
+คำอธิบายเต็มด้านบนใช้ร่วมกับได้ทุกตัวเลือก (ไม่อ้างอิงชื่อแอป) · The full description above works with any option.
+
+### ตัวเลือก A / Option A
+- th-TH ชื่อ (25): Drama Shorts – ซีรีส์สั้น
+- th-TH คำอธิบายสั้น (60): เครื่องเล่นซีรีส์สั้นแนวตั้ง เลื่อนดูทีละตอน จำตอนที่ค้างไว้
+- en-US name (30): Drama Shorts – Vertical Player
+- en-US short (71): Vertical short-drama player. Swipe episodes, resume where you left off.
+
+### ตัวเลือก B / Option B
+- th-TH ชื่อ (26): ShortReel – เล่นซีรีส์สั้น
+- th-TH คำอธิบายสั้น (59): เล่นซีรีส์สั้นจากลิงก์ของคุณ เลื่อนเปลี่ยนตอนได้ ไม่มีโฆษณา
+- en-US name (25): ShortReel – Series Player
+- en-US short (72): Play short series from your own links. Swipe to change episodes. No ads.
+
+### ตัวเลือก C / Option C
+- th-TH ชื่อ (29): ตอนต่อตอน – เครื่องเล่นซีรีส์
+- th-TH คำอธิบายสั้น (66): เล่นซีรีส์แนวตั้งต่อเนื่อง เลื่อนขึ้นดูตอนถัดไป ดูต่อจากที่ค้างไว้
+- en-US name (25): EpiSwipe – Episode Player
+- en-US short (80): Watch vertical series nonstop. Swipe up for the next episode and resume anytime.
+
+### ตัวเลือก D / Option D
+- th-TH ชื่อ (30): MiniSeries Player – ซีรีส์สั้น
+- th-TH คำอธิบายสั้น (64): คลังซีรีส์สั้นส่วนตัวของคุณ เพิ่มลิงก์ เล่นแนวตั้ง ไม่เก็บข้อมูล
+- en-US name (17): MiniSeries Player
+- en-US short (76): Your private short-series library. Add links, play vertically. No data kept.
