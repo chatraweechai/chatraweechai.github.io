@@ -80,3 +80,82 @@ Privacy policy: https://envburiram.github.io/drama/privacy.html
 - th-TH คำอธิบายสั้น (64): คลังซีรีส์สั้นส่วนตัวของคุณ เพิ่มลิงก์ เล่นแนวตั้ง ไม่เก็บข้อมูล
 - en-US name (17): MiniSeries Player
 - en-US short (76): Your private short-series library. Add links, play vertically. No data kept.
+
+
+---
+
+## คำอธิบายเต็มตัวเลือกอื่น / Alternative full descriptions
+
+ใช้แทนคำอธิบายเต็มด้านบนได้ ชื่อแอปใช้ตัวเลือก A (ตัวเลือก 3 อ้างชื่อ Drama Shorts ถ้าเปลี่ยนชื่อต้องแก้ด้วย) · Swap in for the full description above. Option 3 mentions "Drama Shorts"; edit it if you rename the app.
+
+### แบบที่ 2 (เน้นประโยชน์ / benefit-led)
+
+**th-TH (710 ตัวอักษร)**
+
+ดูซีรีส์สั้นแบบต่อเนื่อง ไม่สะดุด
+
+เปิดแอป แล้วกลับไปดูตอนที่ค้างไว้ได้ทันที เลื่อนขึ้นเพื่อไปตอนถัดไป ไม่ต้องกดเลือกซ้ำ ไม่มีโฆษณาคั่น
+
+เหมาะกับ
+• คนที่เก็บคลิปซีรีส์หรือวิดีโอสั้นของตัวเองไว้ และอยากดูแบบเต็มจอแนวตั้ง
+• คนที่ต้องการเครื่องเล่นเรียบง่าย ไม่ต้องสมัครสมาชิก
+
+วิธีใช้
+1. เปิดแท็บ "คลัง" แล้วใส่ชื่อเรื่อง
+2. วางลิงก์วิดีโอ (.mp4 หรือ .m3u8) หนึ่งลิงก์ต่อหนึ่งตอน
+3. กดบันทึก แล้วไปที่แท็บ "ดู" เพื่อเริ่มเล่น
+
+ความเป็นส่วนตัว
+ไม่มีบัญชี ไม่มีโฆษณา ไม่มี analytics รายการและความคืบหน้าอยู่ในเครื่องคุณเท่านั้น ขอสิทธิ์อินเทอร์เน็ตอย่างเดียว
+
+หมายเหตุ: แอปไม่มีคอนเทนต์ในตัว ใช้เฉพาะลิงก์ที่คุณมีสิทธิ์เล่น ลิงก์ต้องเป็น https
+นโยบายความเป็นส่วนตัว: https://envburiram.github.io/drama/privacy.html
+
+**en-US (726 chars)**
+
+Watch short series nonstop.
+
+Open the app and jump back to where you stopped. Swipe up for the next episode, with no ads in between.
+
+Great for
+• People who keep their own series or short videos and want a full-screen vertical player
+• Anyone who wants a simple player with no sign-up
+
+How to use
+1. Open the "Library" tab and enter a title
+2. Paste video links (.mp4 or .m3u8), one link per episode
+3. Tap Save, then go to the "Watch" tab to play
+
+Privacy
+No accounts, no ads, no analytics. Your list and progress stay on your device. Internet permission only.
+
+Note: the app includes no content. Use only links you have the right to play. Links must use https.
+Privacy policy: https://envburiram.github.io/drama/privacy.html
+
+### แบบที่ 3 (กระชับ / concise)
+
+**th-TH (348 ตัวอักษร)**
+
+Drama Shorts เป็นเครื่องเล่นซีรีส์สั้นแนวตั้งแบบเรียบง่าย
+
+• เลื่อนขึ้นลงเพื่อเปลี่ยนตอน
+• เล่นตอนถัดไปอัตโนมัติ
+• จำตอนที่ดูค้างไว้
+• เพิ่มซีรีส์จากลิงก์วิดีโอของคุณเอง
+• ไม่มีโฆษณา ไม่มีบัญชี ไม่เก็บข้อมูลส่วนตัว
+
+แอปไม่มีคอนเทนต์ในตัว ใช้เฉพาะลิงก์ที่คุณมีสิทธิ์เล่น (https)
+นโยบายความเป็นส่วนตัว: https://envburiram.github.io/drama/privacy.html
+
+**en-US (391 chars)**
+
+Drama Shorts is a simple vertical player for short series.
+
+• Swipe up and down to change episodes
+• Autoplays the next episode
+• Remembers where you stopped
+• Add series from your own video links
+• No ads, no accounts, no personal data collected
+
+The app includes no content. Use only links you have the right to play (https).
+Privacy policy: https://envburiram.github.io/drama/privacy.html
