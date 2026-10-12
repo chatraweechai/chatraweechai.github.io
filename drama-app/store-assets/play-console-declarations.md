@@ -55,3 +55,16 @@ Play Console อาจปรับหน้าตาแบบฟอร์ม ใ
 | บริการ VPN / Accessibility / SMS / ตำแหน่งเบื้องหลัง | ไม่ใช้ |
 | Advertising ID | ไม่ใช้ (ไม่ต้องประกาศ ไม่มีสิทธิ์ `AD_ID` ในแอป ตรวจจากแมนิเฟสต์แล้ว มีสิทธิ์เดียวคืออินเทอร์เน็ต) |
 | หมวดหมู่แอป | Video Players & Editors |
+
+## 4. ลิงก์นโยบายความเป็นส่วนตัวตามชื่อแอป
+
+ใส่ลิงก์ในช่อง Privacy policy ของ Play Console ให้ตรงกับชื่อแอปที่เลือก (หน้านโยบายแต่ละหน้ามีเนื้อหาเหมือนกัน ต่างกันแค่ชื่อแอป)
+
+| ตัวเลือก | ชื่อแอป | URL |
+|---|---|---|
+| A | Drama Shorts | https://envburiram.github.io/drama/privacy.html |
+| B | ShortReel | https://envburiram.github.io/drama/privacy-shortreel.html |
+| C | ตอนต่อตอน (EpiSwipe) | https://envburiram.github.io/drama/privacy-episwipe.html |
+| D | MiniSeries Player | https://envburiram.github.io/drama/privacy-miniseries.html |
+
+หมายเหตุ: คำอธิบายเต็มใน `store-listing.md` ลงท้ายด้วยลิงก์ `privacy.html` (ของ A) ถ้าเลือก B, C หรือ D ให้แก้ลิงก์ท้ายคำอธิบายเป็น URL ในตารางนี้
