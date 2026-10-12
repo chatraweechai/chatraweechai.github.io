@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>ShortReel</title>
+<meta name="theme-color" content="#0b0b10">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <section id="player" class="view on"></section>
+  <section id="library" class="view pad"></section>
+  <section id="apps" class="view pad">
+    <h2>แอปทางการ</h2>
+    <p class="note">ลิงก์ไปยังแอปต้นฉบับ ดูคอนเทนต์และจัดการโฆษณา/สมาชิกได้ในแอปนั้นโดยตรง</p>
+    <div class="card"><div>PineDrama<small>TikTok Pte. Ltd.</small></div>
+      <a class="btn" target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.ss.android.ttmd.video">Google Play</a></div>
+    <div class="card"><div>DramaBox<small>StoryMatrix</small></div>
+      <span><a class="btn" target="_blank" rel="noopener noreferrer" href="https://www.dramaboxdb.com">เว็บ</a>
+      <a class="btn ghost" target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/search?q=DramaBox&c=apps">Play</a></span></div>
+  </section>
+</main>
+<nav>
+  <button data-v="player" class="on">ดู</button>
+  <button data-v="library">คลัง</button>
+  <button data-v="apps">แอปทางการ</button>
+</nav>
+<script src="app.js"></script>
+</body>
+</html>

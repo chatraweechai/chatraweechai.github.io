@@ -1,0 +1,20 @@
+:root{--bg:#0b0b10;--fg:#f4f4f8;--mut:#9a9aab;--acc:#ff3d71;--card:#17171f}
+*{box-sizing:border-box;margin:0}
+html,body{height:100%;background:var(--bg);color:var(--fg);font-family:system-ui,"Noto Sans Thai",sans-serif}
+nav{position:fixed;bottom:0;left:0;right:0;display:flex;background:#101018;border-top:1px solid #222;z-index:10;padding-bottom:env(safe-area-inset-bottom)}
+nav button{flex:1;padding:14px 0;background:none;border:0;color:var(--mut);font-size:15px}
+nav button.on{color:var(--acc);font-weight:700}
+main{height:100dvh;padding-bottom:52px;overflow:hidden}
+.view{display:none;height:100%;overflow-y:auto}.view.on{display:block}
+#player.on{display:block;scroll-snap-type:y mandatory}
+.ep{height:calc(100dvh - 52px);scroll-snap-align:start;position:relative;background:#000}
+.ep video{width:100%;height:100%;object-fit:contain}
+.ep .t{position:absolute;left:12px;bottom:16px;right:12px;text-shadow:0 1px 4px #000;pointer-events:none}
+.pad{padding:16px 16px 24px}
+h2{font-size:18px;margin:12px 0}
+.card{background:var(--card);border-radius:12px;padding:14px;margin-bottom:10px;display:flex;justify-content:space-between;align-items:center;gap:10px}
+.card small{color:var(--mut);display:block;margin-top:2px}
+a.btn,button.btn{background:var(--acc);color:#fff;border:0;border-radius:8px;padding:9px 14px;text-decoration:none;font-size:14px}
+button.ghost{background:#2a2a36}
+input{width:100%;padding:10px;border-radius:8px;border:1px solid #333;background:#0f0f15;color:var(--fg);margin-bottom:8px}
+p.note{color:var(--mut);font-size:13px;line-height:1.5}
