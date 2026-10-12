@@ -5,7 +5,7 @@
   "scripts": {
     "sync": "cap sync android",
     "apk": "cap sync android && cd android && ./gradlew assembleDebug",
-    "release": "cap sync android && cd android && ./gradlew assembleRelease"
+    "release": "cap sync android && cd android && ./gradlew bundleRelease assembleRelease"
   },
   "dependencies": {
     "@capacitor/android": "^7.0.0",

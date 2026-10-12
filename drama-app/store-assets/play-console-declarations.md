@@ -67,4 +67,4 @@ Play Console อาจปรับหน้าตาแบบฟอร์ม ใ
 | C | ตอนต่อตอน (EpiSwipe) | https://envburiram.github.io/drama/privacy-episwipe.html |
 | D | MiniSeries Player | https://envburiram.github.io/drama/privacy-miniseries.html |
 
-หมายเหตุ: คำอธิบายเต็มใน `store-listing.md` ลงท้ายด้วยลิงก์ `privacy.html` (ของ A) ถ้าเลือก B, C หรือ D ให้แก้ลิงก์ท้ายคำอธิบายเป็น URL ในตารางนี้
+หมายเหตุ: `variants/<ชื่อ>/listing.md` แทนชื่อแอปและลิงก์นโยบายให้ตรงกับแต่ละตัวเลือกแล้ว ใช้ไฟล์นั้นแทนคำอธิบายใน `store-listing.md` (ภาพและไฟล์ build ของแต่ละชื่ออยู่ใน `variants/<ชื่อ>/` และ `dist/<ชื่อ>-release.aab`)

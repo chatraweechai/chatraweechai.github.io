@@ -20,6 +20,13 @@ android {
             ignoreAssetsPattern '!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~'
         }
     }
+    flavorDimensions "appname"
+    productFlavors {
+        drama { dimension "appname" }
+        shortreel { dimension "appname" }
+        episwipe { dimension "appname" }
+        miniseries { dimension "appname" }
+    }
     signingConfigs {
         release {
             if (ksFile.exists()) {

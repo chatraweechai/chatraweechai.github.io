@@ -55,7 +55,7 @@ Privacy policy: https://envburiram.github.io/drama/privacy.html
 
 ## ตัวเลือกชื่อแอปและคำอธิบายสั้นอื่นๆ / Alternative names and short descriptions
 
-คำอธิบายเต็มด้านบนใช้ร่วมกับได้ทุกตัวเลือก (ไม่อ้างอิงชื่อแอป) · The full description above works with any option.
+คำอธิบายเต็มแบบที่ 1 ด้านบนมีชื่อ "Drama Shorts" ในประโยคแรก และลิงก์นโยบายของ A ให้ใช้ไฟล์ใน `variants/<ชื่อ>/listing.md` ซึ่งแทนชื่อและลิงก์ให้ตรงแล้ว · Full description 1 above names "Drama Shorts"; use `variants/<name>/listing.md`, which has the name and policy link already matched.
 
 ### ตัวเลือก A / Option A
 - th-TH ชื่อ (25): Drama Shorts – ซีรีส์สั้น
