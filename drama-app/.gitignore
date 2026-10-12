@@ -7,3 +7,5 @@ android/app/src/main/assets/public/
 android/capacitor-cordova-android-plugins/
 *.jks
 *.keystore
+keystore/
+keystore.properties
