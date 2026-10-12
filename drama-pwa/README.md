@@ -12,3 +12,4 @@
 - แต่ละชื่อมี scope, service worker และ cache ของตัวเอง (`<slug>-v1`) ติดตั้งแยกกันได้
 - ทุกชื่ออยู่ origin เดียวกัน (`envburiram.github.io`) จึงใช้ localStorage ร่วมกัน ถ้าผู้ใช้ติดตั้งหลายชื่อ รายการซีรีส์ที่เพิ่มไว้จะเห็นเหมือนกัน
 - `drama/` (เดิม) ยังเป็นต้นฉบับที่ถูกห่อเข้าแอป Android
+- แอป Android แต่ละชื่อ (flavor) มีไฟล์เว็บ `index.html`, `manifest.webmanifest`, `sw.js` ของตัวเองใน `drama-app/android/app/src/<ชื่อ>/assets/public/` ทับไฟล์ใน `main` `generate.py` สร้างให้ด้วย ชื่อใน PWA ที่ห่อเข้าแอปจึงตรงกับชื่อแอป
